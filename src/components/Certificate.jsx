@@ -11,7 +11,7 @@ export default function Certificate() {
                                     <h4 className="fw-bold">Programming in Java</h4>
                                     <p className="mb-2 text-muted">NPTEL — 2025</p>
                                     <a
-                                        href="public/NPTEL.jpg"
+                                        href="https://drive.google.com/file/d/11xi7lmULnBm1vbh-Qj8mAIQb5OIERb58/view?usp=sharing"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn btn-primary me-2"
@@ -19,7 +19,7 @@ export default function Certificate() {
                                         View
                                     </a>
                                     <a
-                                        href="public/NPTEL.jpg"
+                                        href="https://drive.google.com/file/d/11xi7lmULnBm1vbh-Qj8mAIQb5OIERb58/view?usp=sharing"
                                         download
                                         className="btn btn-outline-primary"
                                     >
@@ -34,7 +34,7 @@ export default function Certificate() {
                                     <h4 className="fw-bold">Full Stack Development</h4>
                                     <p className="mb-2 text-muted">Apna College — 2025</p>
                                     <a
-                                        href="public/certificate-sigma-7-web-development.pdf"
+                                        href="https://drive.google.com/file/d/1zjqrZa1H-9M6iU0HpwB2_hvxdBDr2a2t/view?usp=sharing"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn btn-primary me-2"
@@ -42,7 +42,7 @@ export default function Certificate() {
                                         View
                                     </a>
                                     <a
-                                        href="public/certificate-sigma-7-web-development.pdf"
+                                        href="https://drive.google.com/file/d/1zjqrZa1H-9M6iU0HpwB2_hvxdBDr2a2t/view?usp=sharing"
                                         download
                                         className="btn btn-outline-primary"
                                     >
@@ -57,7 +57,7 @@ export default function Certificate() {
                                     <h4 className="fw-bold">Java With DSA</h4>
                                     <p className="mb-2 text-muted">Apna College — 2025</p>
                                     <a
-                                        href="public/certificate-sigma-7-DSA.pdf"
+                                        href="https://drive.google.com/file/d/1ZfviSlBROrt0Ut1acpBMWZyaFp_ifHZ8/view?usp=sharing"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="btn btn-primary me-2"
@@ -65,7 +65,7 @@ export default function Certificate() {
                                         View
                                     </a>
                                     <a
-                                        href="public/certificate-sigma-7-DSA.pdf"
+                                        href="https://drive.google.com/file/d/1ZfviSlBROrt0Ut1acpBMWZyaFp_ifHZ8/view?usp=sharing"
                                         download
                                         className="btn btn-outline-primary"
                                     >

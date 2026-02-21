@@ -10,8 +10,8 @@ export default function Education() {
                                 <div className="card-body">
                                     <h4 className="fw-bold">B.Tech (CSE)</h4>
                                     <h6 className="text-muted mb-1">R.D. Engineering College</h6>
-                                    <p className="mb-1">AKTU University — <strong>2027</strong></p>
-                                    <p className="text-primary fw-semibold">CGPA: 7.5</p>
+                                    <p className="mb-1">AKTU University — <strong>Expected 2027</strong></p>
+                                    <p className="text-primary fw-semibold">CGPA: 7.5 (Current)</p>
                                 </div>
                             </div>
                         </div>

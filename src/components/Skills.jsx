@@ -32,6 +32,12 @@ export default function Skills() {
                             <p>Git, GitHub</p>
                         </div>
 
+
+                        <div className="col-md-12 mt-4">
+                            <h5 className="fw-semibold">Basic Knowledge</h5>
+                            <p>Docker, CI/CD, Kubernetes</p>
+                        </div>
+
                     </div>
                 </div>
             </section>

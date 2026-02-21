@@ -19,7 +19,8 @@ export default function Hero() {
 
                     <div className="mt-4 d-flex justify-content-center gap-3">
                         <a
-                            href="public/Divakar-Gautam-Resume.pdf"
+                            href="https://docs.google.com/document/d/1eXZhoYFGdGksqvV0Xh17SZ1Y8qIZdyjl/edit#heading=h.rz2i7jo0mkz"
+                            download
                             className="btn btn-primary btn-lg"
                             target="_blank"
                         >
@@ -27,7 +28,7 @@ export default function Hero() {
                         </a>
 
                         <a
-                            href="#projects"
+                            href="/projects"
                             className="btn btn-outline-primary btn-lg"
                         >
                             View Projects
