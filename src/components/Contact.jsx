@@ -41,15 +41,15 @@ export default function Contact() {
     };
 
     const contactInfo = [
-        { icon: "📧", label: "Email", value: "divakargautam@example.com", link: "mailto:divakargautam@example.com" },
-        { icon: "📱", label: "Phone", value: "+91 98765 43210", link: "tel:+919876543210" },
+        { icon: "📧", label: "Email", value: "divakargautam7900@gmail.com", link: "mailto:divakargautam7900@gmail.com" },
+        { icon: "📱", label: "Phone", value: "+91 72518 67239", link: "tel:+917251867239" },
         { icon: "📍", label: "Location", value: "Bulandshahr, Uttar Pradesh, India", link: null }
     ];
 
     const socialLinks = [
         { name: "GitHub", url: "https://github.com/divakargautam332", icon: "🐙", color: "#333" },
-        { name: "LinkedIn", url: "https://www.linkedin.com/in/divakar-gautam-57850b378", icon: "🔗", color: "#0a66c2" },
-        { name: "Twitter", url: "https://twitter.com/", icon: "🐦", color: "#1da1f2" },
+        { name: "LinkedIn", url: "https://www.linkedin.com/in/divakar-gautam-5278882a9/", icon: "🔗", color: "#0a66c2" },
+        { name: "Twitter", url: "https://x.com/Divakar78245613", icon: "🐦", color: "#1da1f2" },
         { name: "Instagram", url: "https://instagram.com/", icon: "📸", color: "#e4405f" }
     ];
 

@@ -67,11 +67,11 @@ export default function Footer() {
                             <ul className="list-unstyled">
                                 <li className="mb-3 d-flex align-items-center">
                                     <FaEnvelope className="me-2" style={{ color: '#2563eb' }} />
-                                    <span>divakargautam@example.com</span>
+                                    <span>divakargautam7900@gmail.com</span>
                                 </li>
                                 <li className="mb-3 d-flex align-items-center">
                                     <FaPhone className="me-2" style={{ color: '#2563eb' }} />
-                                    <span>+91 98765 43210</span>
+                                    <span>+91 72518 67239</span>
                                 </li>
                                 <li className="mb-3 d-flex align-items-center">
                                     <FaMapMarkerAlt className="me-2" style={{ color: '#2563eb' }} />

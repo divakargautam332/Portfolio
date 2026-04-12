@@ -100,10 +100,10 @@ export default function About() {
                                             <a href="https://github.com/divakargautam332" className="btn btn-outline-primary px-4 py-2" target="_blank" rel="noopener noreferrer">
                                                 GitHub
                                             </a>
-                                            <a href="https://linkedin.com/in/divakargautam" className="btn btn-outline-primary px-4 py-2" target="_blank" rel="noopener noreferrer">
+                                            <a href="https://www.linkedin.com/in/divakar-gautam-5278882a9/" className="btn btn-outline-primary px-4 py-2" target="_blank" rel="noopener noreferrer">
                                                 LinkedIn
                                             </a>
-                                            <a href="mailto:divakargautam@example.com" className="btn btn-outline-primary px-4 py-2">
+                                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divakargautam7900@gmail.com" target="_blank" class="btn btn-outline-primary px-4 py-2">
                                                 Email
                                             </a>
                                         </div>
